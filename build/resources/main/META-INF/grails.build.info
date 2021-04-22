@@ -1,6 +1,6 @@
-#Mon, 19 Apr 2021 17:59:34 +0100
+#Thu, 22 Apr 2021 20:36:59 +0100
 
 info.app.version=0.1
-info.app.name=social-app-groovy-redis
+info.app.name=rest-demo-grails-elastic-redis
 grails.env=development
 info.app.grailsVersion=4.0.10
